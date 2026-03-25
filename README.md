@@ -19,6 +19,19 @@ This project demonstrates how AI can be integrated into enterprise systems like 
 
 ## 🖥️ Product Showcase
 
+
+### 🌐 Frontend Product Experience
+
+<p align="center">
+  <img src="./Frontend/front_end_page_1.png" width="800"/>
+  <img src="./Frontend/front_end_page_2.png" width="800"/>
+  <img src="./Frontend/front_end_page_3.png" width="800"/>
+  <img src="./Frontend/front_end_page_4.png" width="800"/>
+  <img src="./Frontend/front_end_page_5.png" width="800"/>
+  <img src="./Frontend/front_end_page_6.png" width="800"/>
+</p>
+
+---
 ---
 
 ### 📊 Admin Dashboard (Full System)
@@ -41,18 +54,7 @@ This project demonstrates how AI can be integrated into enterprise systems like 
 
 ---
 
-### 🌐 Frontend Product Experience
 
-<p align="center">
-  <img src="./Frontend/front_end_page_1.png" width="800"/>
-  <img src="./Frontend/front_end_page_2.png" width="800"/>
-  <img src="./Frontend/front_end_page_3.png" width="800"/>
-  <img src="./Frontend/front_end_page_4.png" width="800"/>
-  <img src="./Frontend/front_end_page_5.png" width="800"/>
-  <img src="./Frontend/front_end_page_6.png" width="800"/>
-</p>
-
----
 
 ## ⚙️ Tech Stack
 
