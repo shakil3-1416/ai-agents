@@ -1,28 +1,74 @@
-This is a Next.js frontend for showcasing and testing AI automation agents.
+# 🚀 AI Automation Agents Dashboard (Next.js + Ollama)
 
-## Getting Started
+A modern AI-powered frontend platform for showcasing, testing, and simulating **AI automation agents** for real-world business workflows.
 
-1. Create `.env.local` in the project root:
+This project demonstrates how AI can be integrated into enterprise systems like HR, Finance, Support, and Workflow Automation.
+
+---
+
+## ✨ Key Features
+
+- 🤖 AI Agent Simulation Interface  
+- 📊 Enterprise Dashboard UI  
+- ⚡ Real-time AI responses (via Ollama)  
+- 🔁 Fallback demo mode for portfolio usage  
+- 🧠 Modular AI agent architecture  
+- 🎯 Built for showcasing AI business automation  
+
+---
+
+## 🖥️ Product Showcase
+
+---
+
+### 📊 Admin Dashboard (Full System)
+
+<p align="center">
+  <img src="./screenshots/admin_dashboard_1.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_2.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_3.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_4.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_5.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_6.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_7.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_8.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_9.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_10.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_11.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_12.png" width="800"/>
+  <img src="./screenshots/admin_dashboard_13.png" width="800"/>
+</p>
+
+---
+
+### 🌐 Frontend Product Experience
+
+<p align="center">
+  <img src="./screenshots/front_end_page_1.png" width="800"/>
+  <img src="./screenshots/front_end_page_2.png" width="800"/>
+  <img src="./screenshots/front_end_page_3.png" width="800"/>
+  <img src="./screenshots/front_end_page_4.png" width="800"/>
+  <img src="./screenshots/front_end_page_5.png" width="800"/>
+  <img src="./screenshots/front_end_page_6.png" width="800"/>
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+- **Frontend:** Next.js (App Router)  
+- **Styling:** Tailwind CSS  
+- **AI Runtime:** Ollama  
+- **Model:** llama3.2:3b  
+- **State Management:** React Hooks / Context  
+- **Architecture:** Modular AI Agent UI  
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
 
 ```bash
-OLLAMA_BASE_URL=http://127.0.0.1:11434
-OLLAMA_MODEL=llama3.2:3b
-AGENT_DEMO_FALLBACK=true
-```
-
-`AGENT_DEMO_FALLBACK=true` returns a portfolio-safe simulated response when Ollama is unavailable or returns an error.
-
-2. Install/start Ollama and pull a model:
-
-```bash
-ollama serve
-ollama pull llama3.2:3b
-```
-
-3. Run the development server:
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
