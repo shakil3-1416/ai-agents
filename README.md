@@ -24,19 +24,19 @@ This project demonstrates how AI can be integrated into enterprise systems like 
 ### 📊 Admin Dashboard (Full System)
 
 <p align="center">
-  <img src="./screenshots/admin_dashboard_1.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_2.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_3.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_4.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_5.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_6.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_7.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_8.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_9.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_10.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_11.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_12.png" width="800"/>
-  <img src="./screenshots/admin_dashboard_13.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_1.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_2.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_3.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_4.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_5.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_6.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_7.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_8.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_9.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_10.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_11.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_12.png" width="800"/>
+  <img src="./Admin%20Dashboard/admin_dashboard_13.png" width="800"/>
 </p>
 
 ---
@@ -44,12 +44,12 @@ This project demonstrates how AI can be integrated into enterprise systems like 
 ### 🌐 Frontend Product Experience
 
 <p align="center">
-  <img src="./screenshots/front_end_page_1.png" width="800"/>
-  <img src="./screenshots/front_end_page_2.png" width="800"/>
-  <img src="./screenshots/front_end_page_3.png" width="800"/>
-  <img src="./screenshots/front_end_page_4.png" width="800"/>
-  <img src="./screenshots/front_end_page_5.png" width="800"/>
-  <img src="./screenshots/front_end_page_6.png" width="800"/>
+  <img src="./Frontend/front_end_page_1.png" width="800"/>
+  <img src="./Frontend/front_end_page_2.png" width="800"/>
+  <img src="./Frontend/front_end_page_3.png" width="800"/>
+  <img src="./Frontend/front_end_page_4.png" width="800"/>
+  <img src="./Frontend/front_end_page_5.png" width="800"/>
+  <img src="./Frontend/front_end_page_6.png" width="800"/>
 </p>
 
 ---
